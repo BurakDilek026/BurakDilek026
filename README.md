@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BurakDilek026
+- 👀 I’m interested in learning difrent codes
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: It is my instagram adress @burak_dilek026
